@@ -1,0 +1,18 @@
+CONTAINER ID   IMAGE                                 COMMAND                  CREATED          STATUS                      PORTS     NAMES
+96f7e4f03927   nginx:latest                          "/docker-entrypoint.…"   30 minutes ago   Exited (0) 26 minutes ago             demo
+f4408c286eb9   nginx:latest                          "/docker-entrypoint.…"   34 minutes ago   Up 34 minutes               80/tcp    finance
+635045b1517a   nginx:latest                          "/docker-entrypoint.…"   2 hours ago      Exited (0) 26 minutes ago             logout
+a21c230dfe94   pratikd21/bmi                         "/bin/sh -c 'java $J…"   7 hours ago      Exited (143) 6 hours ago              sweet_torvalds
+aad8326d1642   pratikd21/bmi                         "/bin/sh -c 'java $J…"   7 hours ago      Exited (130) 7 hours ago              peaceful_antonelli
+2a0cd3d6e127   pratikd21/bmi                         "/bin/sh -c 'java $J…"   7 hours ago      Exited (130) 7 hours ago              goofy_boyd
+044a85dec364   bf571302310f                          "python3 app.py"         7 hours ago      Exited (0) 7 hours ago                youthful_elion
+fb8ed10b19e7   pratikd21/bmi                         "/bin/sh -c 'java $J…"   31 hours ago     Exited (130) 31 hours ago             gifted_raman
+7ba52348502a   pratikd21/bmi                         "/bin/sh -c 'java $J…"   31 hours ago     Exited (130) 31 hours ago             pedantic_mclaren
+0b174773b092   hello-world                           "/hello"                 33 hours ago     Exited (0) 33 hours ago               youthful_nash
+fa03fa6bafa5   python-web-app                        "python3 manage.py r…"   2 days ago       Exited (0) 2 days ago                 frosty_wright
+4e5fae839bfd   b2a3422b421f                          "python3 manage.py r…"   2 days ago       Exited (0) 2 days ago                 magical_jemison
+5196a73c26c3   616e7d57aefa                          "python3 manage.py r…"   2 days ago       Exited (0) 2 days ago                 tender_feistel
+957852c4c6dc   616e7d57aefa                          "python3 manage.py r…"   2 days ago       Exited (0) 2 days ago                 relaxed_feistel
+0d6c38effbca   616e7d57aefa                          "python3 manage.py r…"   2 days ago       Exited (0) 2 days ago                 exciting_raman
+8c62b4860206   bf571302310f                          "python3 app.py"         2 days ago       Exited (0) 2 days ago                 frosty_snyder
+344cfa6adbda   hello-world                           "/hello"                 2 days ago       Exited (0) 2 days ago                 pedantic_cartwright
